@@ -27,6 +27,37 @@
 |10|20a91a05b3|sweety|cse|  
 |11|20a91a05b6|ramya|cse|  
 |12|20a91a05b7|sanjana|cse|  
-|13|20a91a05b9|aparanji|cse|  
+|13|20a91a05b9|aparanji|cse|     
+## ordered list  
+1. good morning  
+2. good afternoon  
+3. good evening   
+## unordered list  
+- good morning   
+- good afternoon    
+- good evening  
+  or  
+*  good morning    
+*  good afternoon  
+*  good evening   
+## nested list   
+1. good morning
+   1. tiffin
+   2. tea
+   3. milk
+- good evening
+  * tea
+  * coffee
+  * snacks    
+```python
+   a=10
+   b=20
+   c=30
+   if a%2==0
+   print(a,b,c)
+```   
+   
+ 
+
 
 
